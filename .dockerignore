@@ -1,0 +1,8 @@
+target/
+.git/
+.gitignore
+*.log
+.local-db/
+replay_pid*.log
+.idea/
+*.iml
